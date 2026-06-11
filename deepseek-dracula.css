@@ -1,14 +1,16 @@
 /* ==UserStyle==
-@name         DeepSeek Dracula Theme
-@namespace    github.com/Miggycraft
-@version      1.0.0
-@description  Dracula color scheme for DeepSeek dark mode code blocks and UI
-@author       Miggy
-@match        https://chat.deepseek.com/*
+@name           DeepSeek Dracula Theme
+@namespace      github.com/Miggycraft
+@version        1.0.0
+@description    Dracula color scheme for DeepSeek dark mode code blocks and UI
+@author         Miggycraft
+@license        MIT
+@homepageURL    https://chat.deepseek.com
+@updateURL      https://raw.githubusercontent.com/miggycraft/deepseek/main/deepseek-dracula.css
+@preprocessor   stylus
 ==/UserStyle== */
 
-@-moz-document domain("chat.deepseek.com") {
-
+@-moz-document regexp("^https?://chat\\.deepseek\\.com/.*") {
 /* =====================================================
    DRACULA PALETTE
    ===================================================== */
