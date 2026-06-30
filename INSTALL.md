@@ -1,18 +1,14 @@
 ### [Deepseek](https://chat.deepseek.com)
 
-#### Prerequisites
+#### Install with Stylus
 
-Install the Stylus browser extension first:
+1. Install the [Stylus](https://add0n.com/stylus.html) extension:
 
-- **Chrome/Edge/Brave**: [Chrome Web Store](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne);
-- **Firefox**: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
+   - **Chrome / Edge / Brave**: [Chrome Web Store](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne);
+   - **Firefox**: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
 
-#### Activating theme
+2. Open the [theme file](https://raw.githubusercontent.com/dracula/deepseek/main/deepseek-dracula.css);
 
-1. **Open the theme file**: Visit [Deepseek Dracula Theme](https://raw.githubusercontent.com/Miggycraft/deepseek/refs/heads/main/deepseek-dracula.css);
+3. Click **Install style** when Stylus prompts you;
 
-2. **Install the theme**: Click the "Install" button when prompted by Stylus;
-
-3. **Automatic activation**: The theme will immediately apply to all Deepseek pages.
-
-> Navigate to [Deepseek](https://chat.deepseek.com) to see the new Dracula theme applied automatically. ✨
+4. Visit [chat.deepseek.com](https://chat.deepseek.com) — the theme applies automatically. ✨

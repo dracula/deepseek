@@ -1,21 +1,23 @@
-# Dracula for [Deepseek](https://www.chat.deepseek.com)
+# Dracula for [Deepseek](https://chat.deepseek.com)
 
-> A dark theme for [Deepseek](https://www.chat.deepseek.com)
+> A dark theme for [Deepseek](https://chat.deepseek.com).
 
-![Home](./home.png)
-![Screenshot](./screenshot.png)
+![Home](./screenshot/home.png)
+
+![Chat](./screenshot/chat.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/deepseek](https://draculatheme.com/deepseek).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/deepseek/graphs/contributors).
 
 | [![Miggycraft](https://github.com/miggycraft.png?size=100)](https://github.com/miggycraft) |
---------------------------------------------------------------------------------------------- |
-| [Miggycraft](https://github.com/miggycraft) |
+| ------------------------------------------------------------------------------------------ |
+| [Miggycraft](https://github.com/miggycraft)                                                |
+
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
